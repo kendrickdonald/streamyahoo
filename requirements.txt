@@ -1,7 +1,6 @@
-streamlit
+prophet
 prophet
 pandas
 numpy
-plotly
 yfinance
 matplotlib
